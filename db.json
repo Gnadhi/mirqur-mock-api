@@ -94,27 +94,27 @@
 		{
 			"symbol": "AAVE",
 			"name": "AAVE",
-			"amount": 1000
+			"amount": 875
 		},
 		{
 			"symbol": "ADA",
 			"name": "Cardano",
-			"amount": 1000
+			"amount": 1111
 		},
 		{
 			"symbol": "ADD",
 			"name": "ADD Token",
-			"amount": 1000
+			"amount": 409
 		},
 		{
 			"symbol": "ADX",
 			"name": "AdEx",
-			"amount": 1000
+			"amount": 391
 		},
 		{
 			"symbol": "BTC",
 			"name": "Bitcoin",
-			"amount": 100
+			"amount": 2
 		}
 	]
 }
