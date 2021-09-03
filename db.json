@@ -4,40 +4,74 @@
 			"id": "db22780e-1850-43f1-ba53-6b0fb62c6de3"
 		}
 	],
-	"funds": [
+	"pools": [
+		{
+			"ciId": "db22780e-1850-43f1-ba53-6b0fb62c6de3",
+			"content": [
+				[
+					{
+						"unAssetClass": [
+							{
+								"unCurrencySymbol": "1311f7df9aa1aea8e3c275f0fc146ca1f988945f"
+							},
+							{
+								"unTokenName": "AAVE"
+							}
+						]
+					},
+					5000
+				],
+				[
+					{
+						"unAssetClass": [
+							{
+								"unCurrencySymbol": "f41c041baa45ef88d6c6bae6710383123541754d"
+							},
+							{
+								"unTokenName": "BTC"
+							}
+						]
+					},
+					5
+				]
+			]
+		},
 		{
 			"ciId": "db22780e-1850-43f1-ba53-6b0fb62c6de3",
 			"content": [
 				{
 					"unCurrencySymbol": "1311f7df9aa1aea8e3c275f0fc146ca1f988945f"
 				},
-				[[{ "unTokenName": "AAVE" }], 1000]
+				[[{ "unTokenName": "Cardano" }], 1000]
 			]
 		},
-		[
-			{
-				"unCurrencySymbol": "1311f7df9aa1aea8e3c275f0fc146ca1f988945f"
-			},
-			[[{ "unTokenName": "Cardano" }], 1000]
-		],
-		[
-			{
-				"unCurrencySymbol": "1311f7df9aa1aea8e3c275f0fc146ca1f988945f"
-			},
-			[[{ "unTokenName": "ADD Token" }], 100]
-		],
-		[
-			{
-				"unCurrencySymbol": "1311f7df9aa1aea8e3c275f0fc146ca1f988945f"
-			},
-			[[{ "unTokenName": "AdEx" }], 1000]
-		],
-		[
-			{
-				"unCurrencySymbol": "1311f7df9aa1aea8e3c275f0fc146ca1f988945f"
-			},
-			[[{ "unTokenName": "Bitcoin" }], 1000]
-		]
+		{
+			"ciId": "db22780e-1850-43f1-ba53-6b0fb62c6de3",
+			"content": [
+				{
+					"unCurrencySymbol": "1311f7df9aa1aea8e3c275f0fc146ca1f988945f"
+				},
+				[[{ "unTokenName": "ADD Token" }], 100]
+			]
+		},
+		{
+			"ciId": "db22780e-1850-43f1-ba53-6b0fb62c6de3",
+			"content": [
+				{
+					"unCurrencySymbol": "1311f7df9aa1aea8e3c275f0fc146ca1f988945f"
+				},
+				[[{ "unTokenName": "AdEx" }], 1000]
+			]
+		},
+		{
+			"ciId": "db22780e-1850-43f1-ba53-6b0fb62c6de3",
+			"content": [
+				{
+					"unCurrencySymbol": "1311f7df9aa1aea8e3c275f0fc146ca1f988945f"
+				},
+				[[{ "unTokenName": "Bitcoin" }], 1000]
+			]
+		}
 	],
 	"wallet": [
 		{
