@@ -1,66 +1,69 @@
 {
-	"cid": [
+	"ci": [
 		{
-			"id": "db22780e-1850-43f1-ba53-6b0fb62c6de3",
-			"funds": [
-				[
-					{
-						"unCurrencySymbol": "1311f7df9aa1aea8e3c275f0fc146ca1f988945f"
-					},
-					[[{ "unTokenName": "AAVE" }], 1000]
-				],
-				[
-					{
-						"unCurrencySymbol": "1311f7df9aa1aea8e3c275f0fc146ca1f988945f"
-					},
-					[[{ "unTokenName": "Cardano" }], 1000]
-				],
-				[
-					{
-						"unCurrencySymbol": "1311f7df9aa1aea8e3c275f0fc146ca1f988945f"
-					},
-					[[{ "unTokenName": "ADD Token" }], 100]
-				],
-				[
-					{
-						"unCurrencySymbol": "1311f7df9aa1aea8e3c275f0fc146ca1f988945f"
-					},
-					[[{ "unTokenName": "AdEx" }], 1000]
-				],
-				[
-					{
-						"unCurrencySymbol": "1311f7df9aa1aea8e3c275f0fc146ca1f988945f"
-					},
-					[[{ "unTokenName": "Bitcoin" }], 1000]
-				]
-			]
+			"id": "db22780e-1850-43f1-ba53-6b0fb62c6de3"
 		}
 	],
-  "wallet": [
-    {
-      "symbol": "AAVE",
-      "name": "AAVE",
-      "amount": 1000
-    },
-    {
-      "symbol": "ADA",
-      "name": "Cardano",
-      "amount": 1000
-    },
-    {
-      "symbol": "ADD",
-      "name": "ADD Token",
-      "amount": 1000
-    },
-    {
-      "symbol": "ADX",
-      "name": "AdEx",
-      "amount": 1000
-    },
-    {
-      "symbol": "BTC",
-      "name": "Bitcoin",
-      "amount": 100
-    }
-  ]
+	"funds": [
+		{
+			"ciId": "db22780e-1850-43f1-ba53-6b0fb62c6de3",
+			"content": [
+				{
+					"unCurrencySymbol": "1311f7df9aa1aea8e3c275f0fc146ca1f988945f"
+				},
+				[[{ "unTokenName": "AAVE" }], 1000]
+			]
+		},
+		[
+			{
+				"unCurrencySymbol": "1311f7df9aa1aea8e3c275f0fc146ca1f988945f"
+			},
+			[[{ "unTokenName": "Cardano" }], 1000]
+		],
+		[
+			{
+				"unCurrencySymbol": "1311f7df9aa1aea8e3c275f0fc146ca1f988945f"
+			},
+			[[{ "unTokenName": "ADD Token" }], 100]
+		],
+		[
+			{
+				"unCurrencySymbol": "1311f7df9aa1aea8e3c275f0fc146ca1f988945f"
+			},
+			[[{ "unTokenName": "AdEx" }], 1000]
+		],
+		[
+			{
+				"unCurrencySymbol": "1311f7df9aa1aea8e3c275f0fc146ca1f988945f"
+			},
+			[[{ "unTokenName": "Bitcoin" }], 1000]
+		]
+	],
+	"wallet": [
+		{
+			"symbol": "AAVE",
+			"name": "AAVE",
+			"amount": 1000
+		},
+		{
+			"symbol": "ADA",
+			"name": "Cardano",
+			"amount": 1000
+		},
+		{
+			"symbol": "ADD",
+			"name": "ADD Token",
+			"amount": 1000
+		},
+		{
+			"symbol": "ADX",
+			"name": "AdEx",
+			"amount": 1000
+		},
+		{
+			"symbol": "BTC",
+			"name": "Bitcoin",
+			"amount": 100
+		}
+	]
 }
