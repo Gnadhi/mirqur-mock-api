@@ -1,25 +1,41 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }, 
-  "wallet": [
-    {
-      "symbol": "AAVE",
-      "amount": 10000
-    },
-    {
-      "symbol": "ADA",
-      "amount": 1000
-    },
-    {
-      "symbol": "ADD",
-      "amount": 100
-    }
-  ] 
+	"cid": [
+		{
+			"id": "db22780e-1850-43f1-ba53-6b0fb62c6de3",
+			"funds": [
+				[
+					{
+						"unCurrencySymbol": "1311f7df9aa1aea8e3c275f0fc146ca1f988945f"
+					},
+					[[{ "unTokenName": "AAVE" }], 1000]
+				],
+				[
+					{
+						"unCurrencySymbol": "1311f7df9aa1aea8e3c275f0fc146ca1f988945f"
+					},
+					[[{ "unTokenName": "ADA" }], 1000]
+				],
+				[
+					{
+						"unCurrencySymbol": "1311f7df9aa1aea8e3c275f0fc146ca1f988945f"
+					},
+					[[{ "unTokenName": "ADD" }], 100]
+				]
+			]
+		}
+	],
+	"wallet": [
+		{
+			"symbol": "AAVE",
+			"amount": 10000
+		},
+		{
+			"symbol": "ADA",
+			"amount": 1000
+		},
+		{
+			"symbol": "ADD",
+			"amount": 100
+		}
+	]
 }
