@@ -13,29 +13,54 @@
 					{
 						"unCurrencySymbol": "1311f7df9aa1aea8e3c275f0fc146ca1f988945f"
 					},
-					[[{ "unTokenName": "ADA" }], 1000]
+					[[{ "unTokenName": "Cardano" }], 1000]
 				],
 				[
 					{
 						"unCurrencySymbol": "1311f7df9aa1aea8e3c275f0fc146ca1f988945f"
 					},
-					[[{ "unTokenName": "ADD" }], 100]
+					[[{ "unTokenName": "ADD Token" }], 100]
+				],
+				[
+					{
+						"unCurrencySymbol": "1311f7df9aa1aea8e3c275f0fc146ca1f988945f"
+					},
+					[[{ "unTokenName": "AdEx" }], 1000]
+				],
+				[
+					{
+						"unCurrencySymbol": "1311f7df9aa1aea8e3c275f0fc146ca1f988945f"
+					},
+					[[{ "unTokenName": "Bitcoin" }], 1000]
 				]
 			]
 		}
 	],
-	"wallet": [
-		{
-			"symbol": "AAVE",
-			"amount": 10000
-		},
-		{
-			"symbol": "ADA",
-			"amount": 1000
-		},
-		{
-			"symbol": "ADD",
-			"amount": 100
-		}
-	]
+  "wallet": [
+    {
+      "symbol": "AAVE",
+      "name": "AAVE",
+      "amount": 1000
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "amount": 1000
+    },
+    {
+      "symbol": "ADD",
+      "name": "ADD Token",
+      "amount": 1000
+    },
+    {
+      "symbol": "ADX",
+      "name": "AdEx",
+      "amount": 1000
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "amount": 100
+    }
+  ]
 }
