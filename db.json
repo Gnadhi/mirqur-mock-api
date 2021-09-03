@@ -11,15 +11,28 @@
   "wallet": [
     {
       "symbol": "AAVE",
-      "amount": 10000
+      "name": "AAVE", 
+      "amount": 1000
     },
     {
       "symbol": "ADA",
+      "name": "Cardano", 
       "amount": 1000
     },
     {
       "symbol": "ADD",
-      "amount": 100
+      "name": "ADD Token",
+      "amount": 1000
+    },
+    {
+      "symbol": "ADX",
+      "name": "AdEx",
+      "amount": 1000
+    }, 	
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "amount": 100 
     }
   ] 
 }
