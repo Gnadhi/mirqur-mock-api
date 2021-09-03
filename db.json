@@ -6,9 +6,9 @@
 	],
 	"pools": [
 		{
-			"id" : "4eb455e9153db9575c5c5543aeaf1b60d811e775",
+			"id": "4eb455e9153db9575c5c5543aeaf1b60d811e775",
 			"ciId": "db22780e-1850-43f1-ba53-6b0fb62c6de3",
-			"fee" : 0.3,
+			"fee": 0.3,
 			"content": [
 				[
 					{
@@ -20,7 +20,7 @@
 								"unTokenName": "AAVE"
 							}
 						],
-            "weight" : 45
+						"weight": 50
 					},
 					5000
 				],
@@ -34,9 +34,58 @@
 								"unTokenName": "BTC"
 							}
 						],
-            "weight": 55
+						"weight": 45
 					},
 					5
+				]
+			]
+		},
+		{
+			"id": "758193a61f9d5c71838491876748f5b859567cdd",
+			"ciId": "db22780e-1850-43f1-ba53-6b0fb62c6de3",
+			"fee": 0.3,
+			"content": [
+				[
+					{
+						"unAssetClass": [
+							{
+								"unCurrencySymbol": "1311f7df9aa1aea8e3c275f0fc146ca1f988945f"
+							},
+							{
+								"unTokenName": "ADA"
+							}
+						],
+						"weight": 65
+					},
+					5000
+				],
+				[
+					{
+						"unAssetClass": [
+							{
+								"unCurrencySymbol": "1311f7df9aa1aea8e3c275f0fc146ca1f988945f"
+							},
+							{
+								"unTokenName": "AGI"
+							}
+						],
+						"weight": 15
+					},
+					859
+				],
+				[
+					{
+						"unAssetClass": [
+							{
+								"unCurrencySymbol": "f41c041baa45ef88d6c6bae6710383123541754d"
+							},
+							{
+								"unTokenName": "BTC"
+							}
+						],
+						"weight": 20
+					},
+					1
 				]
 			]
 		}
